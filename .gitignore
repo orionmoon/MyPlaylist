@@ -1,0 +1,61 @@
+```
+# Dependencies
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Build artifacts
+build/
+dist/
+*.egg
+*.egg-info/
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Environment
+.env
+.env.local
+.env.*
+.env~MRCONFIG
+.python-version
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+*.out
+*.pid
+
+# Mobile app
+mobile_app/build/
+mobile_app/.dart_tool/
+mobile_app/ios/.symlinks/
+mobile_app/android/.gradle/
+mobile_app/android/build/
+mobile_app/android/app/build/
+mobile_app/ios/Pods/
+mobile_app/ios/build/
+mobile_app/*.iml
+mobile_app/*.ipr
+mobile_app/*.iws
+mobile_app/.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+```
